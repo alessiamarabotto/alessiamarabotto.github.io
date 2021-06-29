@@ -1,0 +1,33 @@
+.header {
+    background-color: lightslategray;
+    color: rgb(255, 255, 255);
+    background-image: url(./carne.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 150px;
+    padding-bottom: 160px;
+    position: relative
+}
+.contenitore-avatar {
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+    overflow: hidden;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+.avatar {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+}
+.titolo {
+    text-align: center;
+}
+
+.sottotitolo {
+text-align: center;
+}
